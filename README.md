@@ -39,7 +39,11 @@ To get started with the project, follow these instructions:
 
 ### Usage
 
+You first need to have android studio for this purpose 
 To run the app on an Android device or emulator, use the following command:
 
 ```bash
 npx react-native run-android
+```
+
+or need an app  called expo-go and scan QR if you're using expo
